@@ -1,4 +1,4 @@
-package com.misarchivos;  // Paquete donde está ubicada la clase
+package com.misarchivos;  / si se guardo
 
 // Importaciones necesarias para manejar la escritura de archivos y generación de números aleatorios
 import java.io.BufferedWriter;  
